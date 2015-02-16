@@ -1,0 +1,63 @@
+Ok, but what does linked data offer library patrons?
+========================================================
+
+Adam Chandler  
+Cornell University  
+@alc28
+
+
+<small>Electronic Resources & Libraries 2015  
+Austin, Texas</small>  
+
+
+<!-- does this comment appear? -->
+
+First Slide
+========================================================
+incremental: true
+
+For more details on authoring R presentations click the
+**Help** button on the toolbar.
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+<small>This sentence will appear smaller.</small>
+
+
+========================================================
+<br><br>    
+# For more details on authoring R presentations click the Help button on the toolbar.
+
+
+Two-Column Slide
+====================================
+transition: rotate
+First column
+
+## one
+
+***
+Second column
+
+## two
+
+http://linkeddata.edu
+========================================================
+incremental: true
+![alt text](DSCF7780.JPG)
+
+***
+
+Second column
+
+- one
+- two
+- three
+
+
+
+========================================================
+
+some text
