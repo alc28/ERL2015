@@ -12,18 +12,116 @@ Austin, Texas</small>
 
 <!-- does this comment appear? -->
 
-First Slide
+Part 1: Scope of this presentation
 ========================================================
 incremental: true
 
-For more details on authoring R presentations click the
-**Help** button on the toolbar.
+- Framing my talk
+- Examples of linked data-based user interfaces
+- Discussion
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+Use case for linked data: Carrier for library metadata, replacement for MARC
+========================================================
 
-<small>This sentence will appear smaller.</small>
+- Linked data data model better than MARC. 
+- MARC is Dead. Now Roy Tennant works at OCLC where he is a spokesperson for schema.org
+- BIBFLOW
+
+Use case for linked data: Mechanism to improve library search engine optimization (SEO)
+========================================================
+
+Zepheira (Eric Miller) and LibHub
+========================================================
+
+- My questions for Zepheira during a recent discussion about their BIBFRAME training
+
+
+* Finally, the focus of this talk * Use case for linked data: Linked data as basis for building new library discovery systems
+
+========================================================
+
+
+Part 2: Examples
+========================================================
+
+- Library and Information Science Abstracts
+- Google Scholar
+- Code4Lib journal  
+- Code4Lib community listserv
+- Other journals
+- Colleagues
+
+Web of Science
+========================================================
+
+Chart: Articles published in Web of Science by year
+
+plot: "semantic web", "linked data", sparql, RDF
+
+Looked for Examples from libraries
+========================================================
+
+
+http://colonialarchitecture.eu/node/15
+========================================================
+
+
+http://oregondigital.org/sets/building-or/oregondigital:df66vh18m
+========================================================
+
+
+http://datos.bne.es
+========================================================
+
+
+http://civilwaronthewesternborder.org/content/relationship-viewer
+========================================================
+
+
+https://linkedjazz.org/
+========================================================
+
+
+http://colonialarchitecture.eu/node/15
+========================================================
+
+
+http://socialarchive.iath.virginia.edu/xtf/search
+========================================================
+
+
+http://library.ucsd.edu/dc/
+========================================================
+
+
+Libhub
+========================================================
+
+
+VIVO
+========================================================
+
+
+LD4L use cases
+========================================================
+
+
+Observations about the examples
+========================================================
+
+- Linked data research outside scope of Eresource management so far
+
+<!-- Please take note: Current BIBFRAME discourse is focused on librarian created metadata (mapping MARC to RDF), not on the kind of metadata that most ER&L attendees manage (ejournal and ebook packages).  What about eresource packages?  Who will create and manage linked data versions of all those ejournal and ebook records? And how would these records (entities, actually) be licensed? I do not see this topic explored in the literature. -->
+
+
+Part 3. Discussion
+========================================================
+<br><br><br>
+Adam Chandler   
+@alc28  
+
+link to slides
+
 
 
 ========================================================
