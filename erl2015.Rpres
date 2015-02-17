@@ -10,54 +10,88 @@ Cornell University
 Austin, Texas</small>  
 
 
-Part 1: Scope of this presentation
+Outline
 ========================================================
 incremental: true
 
-- Framing my talk
+- Frame my talk
 - Examples of linked data-based user interfaces
 - Discussion
 
-Use case for linked data: Carrier for library metadata, replacement for MARC
+
+Argument for linked data: Carrier for library metadata, replacement for MARC
 ========================================================
 
-- Linked data data model better than MARC. 
-- MARC is Dead. Now Roy Tennant works at OCLC where he is a spokesperson for schema.org
-- BIBFLOW
+<br>
+!["BIBFRAME"](images/bibframe-1.jpg)
 
-Use case for linked data: Mechanism to improve library search engine optimization (SEO)
+
+BIBFRAME
 ========================================================
 
-Zepheira (Eric Miller) and LibHub
+<br>
+!["BIBFRAME"](images/bibframe-2.jpg)
+
+"MARC must die"
+========================================================
+incremental: true
+<br>
+!["MARC must die"](images/marcmustdie-1.jpg)  
+
+!["MARC must die"](images/marcmustdie-2.jpg)
+
+
 ========================================================
 
-- My questions for Zepheira during a recent discussion about their BIBFRAME training
+!["ISI chart"](images/isi.png)
 
 
-* Finally, the focus of this talk * Use case for linked data: Linked data as basis for building new library discovery systems
-
+Argument for linked data: Mechanism to improve library search engine optimization (SEO)
 ========================================================
 
+!["Libhub"](images/libhub-1.jpg)
 
-Part 2: Examples
+<small>Zepheira (Eric Miller) and LibHub</small>
+
+
+Libhub "pledge"
 ========================================================
+
+!["Libhub"](images/libhub-2.jpg)
+
+
+Argument for linked data: data model for improved library services
+========================================================
+incremental: true
+
+<br>
+<br>
+
+My litmus test:  functional prototype intended for library patrons
+
+
+
+
+Argument for linked data: data model for improved library services
+========================================================
+incremental: true
+
+<br>
 
 - Library and Information Science Abstracts
 - Google Scholar
-- Code4Lib journal  
 - Code4Lib community listserv
-- Other journals
+- Web of Science
 - Colleagues
 
-Web of Science
+
+GeoBlacklight
 ========================================================
 
-Chart: Articles published in Web of Science by year
+!["GeoBlacklight"](images/geoblacklight.jpg)
 
-plot: "semantic web", "linked data", sparql, RDF
+url: http://journal.code4lib.org/articles/9710
 
-Looked for Examples from libraries
-========================================================
 
 
 http://colonialarchitecture.eu/node/15
@@ -91,6 +125,7 @@ http://socialarchive.iath.virginia.edu/xtf/search
 http://library.ucsd.edu/dc/
 ========================================================
 
+
 Colorado College 
 ========================================================
 
@@ -110,22 +145,43 @@ http://catalog.coloradocollege.edu/Work/53029d6c650b8c11646d9b08#
 
 
 
-Libhub
+VIVO at Cornell
 ========================================================
 
+!["Vivo at Cornell"](images/vivoatcornell-1.jpg)
 
-VIVO
+
+VIVO at Cornell
 ========================================================
 
+!["Vivo at Cornell"](images/vivoatcornell-2.jpg)
 
 
-LD4L use cases
+VIVO institutions
 ========================================================
 
-Stanford annotations
+!["VIVO institutions"](images/vivoatcornell-3.jpg)
+
+
+
+Stanford annotations experiment
 ========================================================
 
-http://www.slideshare.net/azaroth42/annotations-as-linked-data-with-fedora4-and-triannon
+!["Annotations as linked data"](images/annotations-as-linkeddata-1.jpg)
+
+<small>http://www.slideshare.net/azaroth42/annotations-as-linked-data-with-fedora4-and-triannon</small>
+
+
+Stanford annotations experiment
+========================================================
+
+!["Annotations as linked data"](images/annotations-as-linkeddata-2.jpg)
+
+
+Stanford annotations experiment
+========================================================
+
+!["Annotations as linked data"](images/annotations-as-linkeddata-3.jpg)
 
 
 Observations about the examples
