@@ -95,23 +95,20 @@ http://library.ucsd.edu/dc/
 ========================================================
 
 
-Colorado College 
+Colorado College catalog
 ========================================================
 
-http://www.bing.com/search?q=Jeremy+Nelson%2C+Colorado+College+BIBFRAME+catalog&pc=MOZI&form=MOZSBR
+!["J Nelson"](images/jnelson-1.jpg)
 
-https://github.com/jermnelson/BIBFRAME-Datastore
 
-https://github.com/jermnelson/catalog-pull-platform
+========================================================
 
-https://github.com/jermnelson/semantic-server
+!["J Nelson"](images/jnelson-2.jpg)
 
-http://intro2libsys.info/catalog-pull-platform
+ 
+========================================================
 
-http://intro2libsys.info/cc-big-idea-pitch
-
-http://catalog.coloradocollege.edu/Work/53029d6c650b8c11646d9b08#
-
+!["J Nelson"](images/jnelson-3.jpg)
 
 
 VIVO at Cornell
@@ -130,7 +127,6 @@ VIVO institutions
 ========================================================
 
 !["VIVO institutions"](images/vivoatcornell-3.jpg)
-
 
 
 Stanford annotations experiment
@@ -153,43 +149,61 @@ Stanford annotations experiment
 !["Annotations as linked data"](images/annotations-as-linkeddata-3.jpg)
 
 
-http://colonialarchitecture.eu/node/15
+colonialarchitecture.eu
 ========================================================
 
+!["Colonial architecture"](images/colonialarchitecture-1.jpg)
 
-http://oregondigital.org/sets/building-or/oregondigital:df66vh18m
+
+datos.bne.es
 ========================================================
 
+!["linked jazz"](images/datos.jpg)
 
-http://datos.bne.es
+
+linkedjazz.org
 ========================================================
 
+!["linked jazz"](images/linkedjazz-1.jpg)
 
-http://civilwaronthewesternborder.org/content/relationship-viewer
+
 ========================================================
 
+!["linked jazz linkeds to transcriptions"](images/linkedjazz-2.jpg)
 
-https://linkedjazz.org/
 ========================================================
 
+!["linked jazz crowdsourcing"](images/linkedjazz-3.jpg)
+
+
+snac: social networks and archival context
+========================================================
+
+!["snac"](images/snac-1.jpg)
 
 http://socialarchive.iath.virginia.edu/xtf/search
+
+
 ========================================================
 
-Observations about the examples
+!["snac"](images/snac-2.jpg)
+
+
 ========================================================
 
-- Literature is littered with "hello world" what is linked data articles
-- Linked data in libraries research excludes licensed eresource management
-- Linked data research appears to be segregated from user-centered design trend in libraries... following instead the outdated "waterfall" model of softare development
+!["snac"](images/snac-3.jpg)
 
 
-
-
-Google Knowledge Graph
+My observations
 ========================================================
 
-Google builds its knowledge graph from the most popular searches! 
+
+- Linked data research appears to be segregated from user-centered design trend in libraries.  Literature is filled with repetitive, what is linked data? what is a triple? articles
+- linked data for licensed eresource management: nothing at all
+- linked data for commodity book discovery in libraries: nothing significant except hand waving from Zepheira and others
+- linked data for special collections: this is where linked data appears to be getting the most traction in libraries 
+
+
 
 
 Part 3. Discussion
@@ -202,38 +216,3 @@ link to slides
 
 
 
-========================================================
-<br><br>    
-# For more details on authoring R presentations click the Help button on the toolbar.
-
-
-Two-Column Slide
-====================================
-transition: rotate
-First column
-
-## one
-
-***
-Second column
-
-## two
-
-http://linkeddata.edu
-========================================================
-incremental: true
-![alt text](DSCF7780.JPG)
-
-***
-
-Second column
-
-- one
-- two
-- three
-
-
-
-========================================================
-
-some text
