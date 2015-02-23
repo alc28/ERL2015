@@ -1,7 +1,9 @@
 Ok, but what does linked data offer library patrons?
 ========================================================
+transition: fade
 
 Adam Chandler  
+Technical Services Automation and User Experience Strategist  
 Cornell University  
 @alc28
 
@@ -10,24 +12,20 @@ Cornell University
 Austin, Texas</small>  
 
 
-Outline
 ========================================================
-incremental: true
-
-- Frame my talk
-- Examples of linked data-based user interfaces
-- Discussion
+<br><br><br>
+# Framing my talk
 
 
-Argument for linked data: Carrier for library metadata, replacement for MARC
+Argument for linked data
 ========================================================
+## Carrier for library metadata, replacement for MARC
 
-<br>
 !["BIBFRAME"](images/bibframe-1.jpg)
-
 
 BIBFRAME
 ========================================================
+transition: rotate
 
 <br>
 !["BIBFRAME"](images/bibframe-2.jpg)
@@ -37,7 +35,7 @@ BIBFRAME
 incremental: true
 <br>
 !["MARC must die"](images/marcmustdie-1.jpg)  
-
+...  
 !["MARC must die"](images/marcmustdie-2.jpg)
 
 
@@ -46,12 +44,10 @@ incremental: true
 !["ISI chart"](images/isi.png)
 
 
-Argument for linked data: Mechanism to improve library search engine optimization (SEO)
+Argument for linked data
 ========================================================
-
+## Mechanism to improve library search engine optimization (SEO)
 !["Libhub"](images/libhub-1.jpg)
-
-<small>Zepheira (Eric Miller) and LibHub</small>
 
 
 Libhub "pledge"
@@ -60,20 +56,26 @@ Libhub "pledge"
 !["Libhub"](images/libhub-2.jpg)
 
 
-Argument for linked data: data model for improved library services
+Argument for linked data 
 ========================================================
-incremental: true
+## Data model for improved library services
 
-My litmus test:  
 <br>
-**functional prototype intended for library patrons**
+My litmus test:  **User interface intended for library patrons**
 
 
+Literature review
+========================================================
 - ISI Web of Science
 - Library and Information Science Abstracts
 - Google Scholar
 - Code4Lib community listserv
 - Colleagues
+
+
+========================================================
+<br><br><br>
+# Linked data-based discovery interfaces
 
 
 GeoBlacklight
@@ -84,15 +86,12 @@ GeoBlacklight
 url: http://journal.code4lib.org/articles/9710
 
 
-Deutsche Digitale Bibliothek (Europeana data model)
+German Digital Library (Europeana data model)
 ========================================================
 
 !["Deutsche Digitale Bibliothek"](images/deutshe-digitale-bibliothek.jpg)
 
-<small>https://www.deutsche-digitale-bibliothek.de/entity/10063480X?reqType=ajax&offset=0&query=neuenstein&facetValues[]=affiliate_fct_role%3DHohenlohe-Weikersheim%2C+Georg+Friedrich+von&rows=20&viewType=list&firstHit=MJKEUBEVVJJ3NHLI62BII5KWD5EG4IPU&lastHit=lasthit</small>
-
-http://library.ucsd.edu/dc/
-========================================================
+<small>https://www.deutsche-digitale-bibliothek.de</small>
 
 
 Colorado College catalog
@@ -111,22 +110,63 @@ Colorado College catalog
 !["J Nelson"](images/jnelson-3.jpg)
 
 
-VIVO at Cornell
+Europeana
+========================================================
+
+!["europeana"](images/europeana-sparql.png)
+
+VIVO
 ========================================================
 
 !["Vivo at Cornell"](images/vivoatcornell-1.jpg)
 
 
-VIVO at Cornell
 ========================================================
 
 !["Vivo at Cornell"](images/vivoatcornell-2.jpg)
 
 
-VIVO institutions
 ========================================================
 
 !["VIVO institutions"](images/vivoatcornell-3.jpg)
+
+
+========================================================
+<br><br><br>
+# Linked data-based special collection user interfaces
+
+
+colonialarchitecture.eu
+========================================================
+
+!["Colonial architecture"](images/colonialarchitecture-1.jpg)
+
+
+National Library of Spain
+========================================================
+
+!["datos"](images/datos.jpg)
+
+
+datos.bne.es
+
+
+snac: social networks and archival context
+========================================================
+
+!["snac"](images/snac-1.jpg)
+
+http://socialarchive.iath.virginia.edu/xtf/search
+
+
+========================================================
+
+!["snac"](images/snac-2.jpg)
+
+
+========================================================
+
+!["snac"](images/snac-3.jpg)
 
 
 Stanford annotations experiment
@@ -149,18 +189,6 @@ Stanford annotations experiment
 !["Annotations as linked data"](images/annotations-as-linkeddata-3.jpg)
 
 
-colonialarchitecture.eu
-========================================================
-
-!["Colonial architecture"](images/colonialarchitecture-1.jpg)
-
-
-datos.bne.es
-========================================================
-
-!["linked jazz"](images/datos.jpg)
-
-
 linkedjazz.org
 ========================================================
 
@@ -169,50 +197,81 @@ linkedjazz.org
 
 ========================================================
 
-!["linked jazz linkeds to transcriptions"](images/linkedjazz-2.jpg)
+!["linked jazz linked to transcriptions"](images/linkedjazz-2.jpg)
 
 ========================================================
 
 !["linked jazz crowdsourcing"](images/linkedjazz-3.jpg)
 
 
-snac: social networks and archival context
-========================================================
-
-!["snac"](images/snac-1.jpg)
-
-http://socialarchive.iath.virginia.edu/xtf/search
-
-
-========================================================
-
-!["snac"](images/snac-2.jpg)
-
-
-========================================================
-
-!["snac"](images/snac-3.jpg)
-
-
-My observations
-========================================================
-
-
-- Linked data research appears to be segregated from user-centered design trend in libraries.  Literature is filled with repetitive, what is linked data? what is a triple? articles
-- linked data for licensed eresource management: nothing at all
-- linked data for commodity book discovery in libraries: nothing significant except hand waving from Zepheira and others
-- linked data for special collections: this is where linked data appears to be getting the most traction in libraries 
-
-
-
-
-Part 3. Discussion
 ========================================================
 <br><br><br>
+# A couple observations
+
+
+========================================================
+## The essential questions around how records (or entities) will be shared if we dispense with MARC are unanswered.  
+<br>
+
+- BIBFRAME (or is that BIBFRAME Core?), schema.org, RDA?, Europeana data model?
+- Peer to peer?  
+- What will be the role of OCLC and other vendors? 
+- Records or triples? 
+- Will we be building discovery UIs on top of triple stores using SPARQL?
+
+
+========================================================
+<br>
+## Linked data research appears to be segregated from user-centered design trend in libraries.  
+
+Our literature is filled with repetitive, elementary what is linked data? what is a triple? articles that do little to move the profession forward.
+
+
+Linking Lives
+========================================================
+
+!["linking lives"](images/mockup_linkinglives.png)
+
+
+========================================================
+<br><br>
+"The evaluation consisted of a survey and a focus group, with 10 participants including PhD students and MA students studying history, politics and social sciences."  
+
+<small> http://linkinglives.archiveshub.ac.uk/2012/11/15/linking-lives-evaluation-report/ </small>
+
+
+========================================================
+### Integrity, accuracy and trustworthiness of resources  
+
+"This is a very fundamental and broad issue around the integrity, accuracy and trustworthiness of resources, and the Linked Data approach does require us to think more carefully about the issues here, because of the intention to bring sources together."  
+
+"Participants wanted to know about the choices underlying Linking Lives: why is the data chosen? what gets left out?"  
+
+"If Linking Lives includes a list of works by a person, can the researcher trust that the list is complete? If not then its utility is significantly diminished."  
+
+
+========================================================
+### Who is the audience?  
+
+"The participants generally felt that something like Linking Lives would be more appropriate for undergraduates, or useful for teaching, but it would not enable the more sophisticated searching that PhD students might want to carry out."  
+
+
+
+========================================================
+### Does the business case make sense? 
+
+"In the end, there is still a challenge for Linked Data to make a sound business case and really showcase the end-user benefits."  
+
+"Maybe we’ve reached the point in the Linked Data story where we need to focus more strongly on how it will answer the requirements of researchers." 
+
+
+========================================================
+<br><br>
+# Discussion
+<br><br>
 Adam Chandler   
 @alc28  
 
-link to slides
-
-
+<br><br>
+slides: http://rpubs.com/acct4rpubs/60756
 
