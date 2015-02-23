@@ -33,7 +33,9 @@ transition: rotate
 "MARC must die"
 ========================================================
 incremental: true
+
 <br>
+
 !["MARC must die"](images/marcmustdie-1.jpg)  
 ...  
 !["MARC must die"](images/marcmustdie-2.jpg)
@@ -58,10 +60,14 @@ Libhub "pledge"
 
 Argument for linked data 
 ========================================================
+type: prompt
+
 ## Data model for improved library services
 
-<br>
-My litmus test:  **User interface intended for library patrons**
+<br><br><br><br>
+My litmus test:  
+
+**Show a user interface intended for library patrons**
 
 
 Literature review
@@ -72,18 +78,18 @@ Literature review
 - Code4Lib community listserv
 - Colleagues
 
+*If I missed anything important please let me know.*
 
 ========================================================
 <br><br><br>
 # Linked data-based discovery interfaces
 
 
-GeoBlacklight
+
+Europeana
 ========================================================
 
-!["GeoBlacklight"](images/geoblacklight.jpg)
-
-url: http://journal.code4lib.org/articles/9710
+!["europeana"](images/europeana-sparql.png)
 
 
 German Digital Library (Europeana data model)
@@ -92,6 +98,20 @@ German Digital Library (Europeana data model)
 !["Deutsche Digitale Bibliothek"](images/deutshe-digitale-bibliothek.jpg)
 
 <small>https://www.deutsche-digitale-bibliothek.de</small>
+
+
+National Library of Spain
+========================================================
+
+!["datos"](images/datos.jpg)
+
+
+GeoBlacklight
+========================================================
+
+!["GeoBlacklight"](images/geoblacklight.jpg)
+
+url: http://journal.code4lib.org/articles/9710
 
 
 Colorado College catalog
@@ -109,11 +129,6 @@ Colorado College catalog
 
 !["J Nelson"](images/jnelson-3.jpg)
 
-
-Europeana
-========================================================
-
-!["europeana"](images/europeana-sparql.png)
 
 VIVO
 ========================================================
@@ -142,21 +157,10 @@ colonialarchitecture.eu
 !["Colonial architecture"](images/colonialarchitecture-1.jpg)
 
 
-National Library of Spain
-========================================================
-
-!["datos"](images/datos.jpg)
-
-
-datos.bne.es
-
-
 snac: social networks and archival context
 ========================================================
 
 !["snac"](images/snac-1.jpg)
-
-http://socialarchive.iath.virginia.edu/xtf/search
 
 
 ========================================================
@@ -173,8 +177,6 @@ Stanford annotations experiment
 ========================================================
 
 !["Annotations as linked data"](images/annotations-as-linkeddata-1.jpg)
-
-<small>http://www.slideshare.net/azaroth42/annotations-as-linked-data-with-fedora4-and-triannon</small>
 
 
 Stanford annotations experiment
@@ -206,7 +208,7 @@ linkedjazz.org
 
 ========================================================
 <br><br><br>
-# A couple observations
+# Some observations
 
 
 ========================================================
@@ -215,7 +217,7 @@ linkedjazz.org
 
 - BIBFRAME (or is that BIBFRAME Core?), schema.org, RDA?, Europeana data model?
 - Peer to peer?  
-- What will be the role of OCLC and other vendors? 
+- What will be the role of OCLC (and other vendors)? 
 - Records or triples? 
 - Will we be building discovery UIs on top of triple stores using SPARQL?
 
@@ -224,7 +226,7 @@ linkedjazz.org
 <br>
 ## Linked data research appears to be segregated from user-centered design trend in libraries.  
 
-Our literature is filled with repetitive, elementary what is linked data? what is a triple? articles that do little to move the profession forward.
+Our linked data in libraries literature is filled with repetitive, elementary what is linked data? what is a triple? articles that do little to move the profession forward.
 
 
 Linking Lives
@@ -237,7 +239,11 @@ Linking Lives
 <br><br>
 "The evaluation consisted of a survey and a focus group, with 10 participants including PhD students and MA students studying history, politics and social sciences."  
 
-<small> http://linkinglives.archiveshub.ac.uk/2012/11/15/linking-lives-evaluation-report/ </small>
+
+========================================================
+### Who is the audience?  
+
+"The participants generally felt that something like Linking Lives would be more appropriate for undergraduates, or useful for teaching, but it would not enable the more sophisticated searching that PhD students might want to carry out."  
 
 
 ========================================================
@@ -251,10 +257,15 @@ Linking Lives
 
 
 ========================================================
-### Who is the audience?  
+transition: zoom
+type: alert
 
-"The participants generally felt that something like Linking Lives would be more appropriate for undergraduates, or useful for teaching, but it would not enable the more sophisticated searching that PhD students might want to carry out."  
 
+## Open World Model  
+
+It is important to mention the traditional database model is closed-world. What this means is that model assumes that all available data is included in the database and that the data has to fit a particular structure.  In contrast, the Linked Data model is open-world and assumes that there is always more data available externally and that the graph may extend in ways that you didn’t expect.   - Karen Coombs, OCLC
+
+<small>http://www.oclc.org/developer/news/2014/worldcat-discovery-api-and-linked-data.en.html</small>
 
 
 ========================================================
@@ -275,3 +286,51 @@ Adam Chandler
 <br><br>
 slides: http://rpubs.com/acct4rpubs/60756
 
+
+Links
+========================================================
+
+BIBFRAME  
+http://bibframe.org/
+
+GeoBlacklight  
+http://journal.code4lib.org/articles/9710
+
+German Digital Library (Europeana data model)  
+https://www.deutsche-digitale-bibliothek.de
+
+Colorado College catalog  
+https://github.com/jermnelson/BIBFRAME-Datastore
+
+
+========================================================
+Europeana SPARQL endpoint  
+http://europeana.ontotext.com/sparql
+
+VIVO  
+http://vivo.library.cornell.edu  
+http://vivoweb.org
+
+Colonial architecture & town planning  
+http://colonialarchitecture.eu
+
+National Library of Spain  
+http://datos.bne.es
+
+
+========================================================
+
+snac: social networks and archival context  
+http://socialarchive.iath.virginia.edu/xtf/search
+
+Stanford annotations experiment  
+http://www.slideshare.net/azaroth42/annotations-as-linked-data-with-fedora4-and-triannon
+
+Linkedjazz  
+http://linkedjazz.org
+
+Linking Lives Evaluation Report  
+http://linkinglives.archiveshub.ac.uk/2012/11/15/linking-lives-evaluation-report/
+
+Open World Model  
+http://www.oclc.org/developer/news/2014/worldcat-discovery-api-and-linked-data.en.html
