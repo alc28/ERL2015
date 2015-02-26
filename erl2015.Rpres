@@ -130,28 +130,12 @@ Colorado College catalog
 !["J Nelson"](images/jnelson-3.jpg)
 
 
-VIVO
-========================================================
-
-!["Vivo at Cornell"](images/vivoatcornell-1.jpg)
-
-
-========================================================
-
-!["Vivo at Cornell"](images/vivoatcornell-2.jpg)
-
-
-========================================================
-
-!["VIVO institutions"](images/vivoatcornell-3.jpg)
-
-
 ========================================================
 <br><br><br>
 # Linked data-based special collection user interfaces
 
 
-colonialarchitecture.eu
+Colonial architecture & town planning
 ========================================================
 
 !["Colonial architecture"](images/colonialarchitecture-1.jpg)
@@ -171,6 +155,22 @@ snac: social networks and archival context
 ========================================================
 
 !["snac"](images/snac-3.jpg)
+
+
+VIVO
+========================================================
+
+!["Vivo at Cornell"](images/vivoatcornell-1.jpg)
+
+
+========================================================
+
+!["Vivo at Cornell"](images/vivoatcornell-2.jpg)
+
+
+========================================================
+
+!["VIVO institutions"](images/vivoatcornell-3.jpg)
 
 
 Stanford annotations experiment
@@ -242,18 +242,27 @@ Linking Lives
 
 ========================================================
 ### Who is the audience?  
+<br><br>
 
 "The participants generally felt that something like Linking Lives would be more appropriate for undergraduates, or useful for teaching, but it would not enable the more sophisticated searching that PhD students might want to carry out."  
 
 
 ========================================================
-### Integrity, accuracy and trustworthiness of resources  
+### People yes, but what about concepts?  
+<br><br>
+
+“I’d be a little bit sceptical if you were to extend it to concepts…it might tend to homogenise and evacuate some of the complexities and subtle nuances of particular theories.” (Focus group participant)
+
+
+========================================================
+### Integrity  
+<br><br>
 
 "This is a very fundamental and broad issue around the integrity, accuracy and trustworthiness of resources, and the Linked Data approach does require us to think more carefully about the issues here, because of the intention to bring sources together."  
 
-"Participants wanted to know about the choices underlying Linking Lives: why is the data chosen? what gets left out?"  
+"Participants wanted to know about the choices underlying Linking Lives: **why is the data chosen? what gets left out?**"  
 
-"If Linking Lives includes a list of works by a person, can the researcher trust that the list is complete? If not then its utility is significantly diminished."  
+"If Linking Lives includes a list of works by a person, **can the researcher trust that the list is complete?** If not then its utility is significantly diminished."  
 
 
 ========================================================
@@ -270,8 +279,7 @@ It is important to mention the traditional database model is closed-world. What 
 
 ========================================================
 ### Does the business case make sense? 
-
-"In the end, there is still a challenge for Linked Data to make a sound business case and really showcase the end-user benefits."  
+<br><br>
 
 "Maybe we’ve reached the point in the Linked Data story where we need to focus more strongly on how it will answer the requirements of researchers." 
 
